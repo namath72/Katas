@@ -1,0 +1,7 @@
+C:\Source code\Personal Projects\Katas\obj\Debug\Katas.csprojAssemblyReference.cache
+C:\Source code\Personal Projects\Katas\obj\Debug\Katas.csproj.CoreCompileInputs.cache
+C:\Source code\Personal Projects\Katas\bin\Debug\Katas.exe.config
+C:\Source code\Personal Projects\Katas\bin\Debug\Katas.exe
+C:\Source code\Personal Projects\Katas\bin\Debug\Katas.pdb
+C:\Source code\Personal Projects\Katas\obj\Debug\Katas.exe
+C:\Source code\Personal Projects\Katas\obj\Debug\Katas.pdb
